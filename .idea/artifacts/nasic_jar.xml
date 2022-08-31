@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="nasic:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/nasic_jar</output-path>
+    <root id="archive" name="nasic.jar">
+      <element id="module-output" name="nasic" />
+    </root>
+  </artifact>
+</component>
